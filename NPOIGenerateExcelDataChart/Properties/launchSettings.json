@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NPOIGenerateExcelDataChart": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
