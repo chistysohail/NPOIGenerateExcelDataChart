@@ -67,7 +67,7 @@ RUN apt-get update \
 COPY --from=build /app/publish .
 
 # Set the entry point to run the application
-ENTRYPOINT ["dotnet", "NPOIExample.dll"]
+ENTRYPOINT ["dotnet", "NPOIGenerateExcelDataChart.dll"]
 Steps to Build and Run the Application in Docker
 1. Build the Docker Image
 To build the Docker image, run the following command from the project root directory (where your Dockerfile is located):
