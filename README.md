@@ -1,7 +1,7 @@
-NPOI Excel Report Generator - .NET 6
+# NPOI Excel Report Generator - .NET 6
 This project is a .NET 6 console application that generates an Excel file with sales data and a line chart using the NPOI library.
 
-Features:
+# Features:
 Creates an Excel file in .xlsx format.
 Adds sales data for various products.
 Generates a line chart based on product quantities.
